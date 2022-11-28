@@ -1,0 +1,7 @@
+﻿Test Nb,Reference Filename,Test Filename
+1,C:/temp/CC_Coarse/RTSS/ReferenceCuboidSparse.dcm,C:/temp/CC_Coarse/RTSS/TestCuboidSparse.dcm
+2,C:/temp/CC_Coarse/RTSS/ReferenceCuboidSparse.dcm,C:/temp/CC_Coarse/RTSS/TestCuboidDense.dcm
+3,C:/temp/CC_Typical/RTSS/ReferenceCuboidSparse.dcm,C:/temp/CC_Typical/RTSS/TestCuboidSparse.dcm
+4,C:/temp/CC_Typical/RTSS/ReferenceCuboidSparse.dcm,C:/temp/CC_Typical/RTSS/TestCuboidDense.dcm
+5,C:/temp/CC_Hi-Res/RTSS/ReferenceCuboidSparse.dcm,C:/temp/CC_Hi-Res/RTSS/TestCuboidSparse.dcm
+6,C:/temp/CC_Hi-Res/RTSS/ReferenceCuboidSparse.dcm,C:/temp/CC_Hi-Res/RTSS/TestCuboidDense.dcm

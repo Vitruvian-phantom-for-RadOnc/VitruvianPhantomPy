@@ -1,0 +1,34 @@
+#
+#
+# Djamal Boukerroui, 08-2022
+
+# Leonardo da Vinci Vitruvian Man Shapes
+python VitruvianManShapeGeneration.py C:/temp -nr -lr -j ./resources/LdV_VitruvianMan.json
+python VitruvianManShapeGeneration.py C:/temp -hr -j ./resources/LdV_VitruvianMan.json
+
+# Cesare Cesariano Vitruvian Man shapes
+python VitruvianManShapeGeneration.py C:/temp -nr -lr -hr -j ./resources/CC_VitruvianMan.json
+# Rotated: use -n to not to overwrite the CT
+python VitruvianManShapeGeneration.py C:/temp -n -nr -lr -hr -j ./resources/CC_VitruvianMan_R.json
+
+# Cube vs shifted cuboid  use -n to not to overwrite the CT
+python VitruvianManShapeGeneration.py C:/temp -n -c -nr -lr -hr 
+
+
+# Empirical Scoring 
+#
+#The input CSV files will need editing to update the paths of the RTSS files
+
+python main_score.py  ./resources/score_list_cuboids.csv               ./results/score_list_cuboids_empirical.csv
+
+python main_score.py  ./resources/score_list_cc_vm_lr.csv    ./results/score_list_cc_vm_lr_empirical.csv
+python main_score.py  ./resources/score_list_cc_vm_nr.csv   ./results/score_list_cc_vm_nr_empirical.csv
+python main_score.py  ./resources/score_list_cc_vm_hr.csv    ./results/score_list_cc_vm_hr_empirical.csv
+
+python main_score.py  ./resources/score_list_cc_vm_rotated_lr.csv    ./results/score_list_cc_vm_rotated_lr_empirical.csv
+python main_score.py  ./resources/score_list_cc_vm_rotated_nr.csv   ./results/score_list_cc_vm_rotated_nr_empirical.csv
+python main_score.py  ./resources/score_list_cc_vm_rotated_hr.csv    ./results/score_list_cc_vm_rotated_hr_empirical.csv
+
+python main_score.py  ./resources/score_list_ldv_vm_lr.csv       ./results/score_list_ldv_vm_lr_empirical.csv
+python main_score.py  ./resources/score_list_ldv_vm_nr.csv      ./results/score_list_ldv_vm_nr_empirical.csv
+python main_score.py  ./resources/score_list_ldv_vm_hr.csv       ./results/score_list_ldv_vm_hr_empirical.csv

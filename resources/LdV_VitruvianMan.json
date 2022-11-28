@@ -1,0 +1,132 @@
+{
+	"LdV_VitruvianMan": [
+		{
+			"w": 10,
+			"r": 12.5,
+			"gamma": 1.25,
+			"nameA": "LdV_VM_ShapeA1",
+			"nameB": "LdV_VM_ShapeB1",
+			"theta": 0
+		},
+		{
+			"w": 10,
+			"r": 12.17777778,
+			"gamma": 1.217777778,
+			"nameA": "LdV_VM_ShapeA2",
+			"nameB": "LdV_VM_ShapeB2",
+			"theta": 0
+		},
+		{
+			"w": 10,
+			"r": 11,
+			"gamma": 1.1,
+			"nameA": "LdV_VM_ShapeA3",
+			"nameB": "LdV_VM_ShapeB3",
+			"theta": 0
+		},
+		{
+			"w": 10,
+			"r": 10,
+			"gamma": 1,
+			"nameA": "LdV_VM_ShapeA4",
+			"nameB": "LdV_VM_ShapeB4",
+			"theta": 0
+		},
+		{
+			"w": 20,
+			"r": 25,
+			"gamma": 1.25,
+			"nameA": "LdV_VM_ShapeA5",
+			"nameB": "LdV_VM_ShapeB5",
+			"theta": 0
+		},
+		{
+			"w": 20,
+			"r": 24.35555556,
+			"gamma": 1.217777778,
+			"nameA": "LdV_VM_ShapeA6",
+			"nameB": "LdV_VM_ShapeB6",
+			"theta": 0
+		},
+		{
+			"w": 20,
+			"r": 22,
+			"gamma": 1.1,
+			"nameA": "LdV_VM_ShapeA7",
+			"nameB": "LdV_VM_ShapeB7",
+			"theta": 0
+		},
+		{
+			"w": 20,
+			"r": 20,
+			"gamma": 1,
+			"nameA": "LdV_VM_ShapeA8",
+			"nameB": "LdV_VM_ShapeB8",
+			"theta": 0
+		},
+		{
+			"w": 40,
+			"r": 50,
+			"gamma": 1.25,
+			"nameA": "LdV_VM_ShapeA9",
+			"nameB": "LdV_VM_ShapeB9",
+			"theta": 0
+		},
+		{
+			"w": 40,
+			"r": 48.71111111,
+			"gamma": 1.217777778,
+			"nameA": "LdV_VM_ShapeA10",
+			"nameB": "LdV_VM_ShapeB10",
+			"theta": 0
+		},
+		{
+			"w": 40,
+			"r": 44,
+			"gamma": 1.1,
+			"nameA": "LdV_VM_ShapeA11",
+			"nameB": "LdV_VM_ShapeB11",
+			"theta": 0
+		},
+		{
+			"w": 40,
+			"r": 40,
+			"gamma": 1,
+			"nameA": "LdV_VM_ShapeA12",
+			"nameB": "LdV_VM_ShapeB12",
+			"theta": 0
+		},
+		{
+			"w": 80,
+			"r": 100,
+			"gamma": 1.25,
+			"nameA": "LdV_VM_ShapeA13",
+			"nameB": "LdV_VM_ShapeB13",
+			"theta": 0
+		},
+		{
+			"w": 80,
+			"r": 97.42222222,
+			"gamma": 1.217777778,
+			"nameA": "LdV_VM_ShapeA14",
+			"nameB": "LdV_VM_ShapeB14",
+			"theta": 0
+		},
+		{
+			"w": 80,
+			"r": 88,
+			"gamma": 1.1,
+			"nameA": "LdV_VM_ShapeA15",
+			"nameB": "LdV_VM_ShapeB15",
+			"theta": 0
+		},
+		{
+			"w": 80,
+			"r": 80,
+			"gamma": 1,
+			"nameA": "LdV_VM_ShapeA16",
+			"nameB": "LdV_VM_ShapeB16",
+			"theta": 0
+		}
+	]
+}

@@ -1,0 +1,116 @@
+{
+	"CC_VitruvianMan": [
+		{
+			"w": 10,
+			"r": 7.071067812,
+			"nameA": "CC_VM_ShapeA1",
+			"nameB": "CC_VM_ShapeB1",
+			"theta": 0
+		},
+		{
+			"w": 10,
+			"r": 10,
+			"nameA": "CC_VM_ShapeA2",
+			"nameB": "CC_VM_ShapeB2",
+			"theta": 0
+		},
+		{
+			"w": 10,
+			"r": 11.28379167,
+			"nameA": "CC_VM_ShapeA3",
+			"nameB": "CC_VM_ShapeB3",
+			"theta": 0
+		},
+		{
+			"w": 10,
+			"r": 14.14213562,
+			"nameA": "CC_VM_ShapeA4",
+			"nameB": "CC_VM_ShapeB4",
+			"theta": 0
+		},
+		{
+			"w": 20,
+			"r": 14.14213562,
+			"nameA": "CC_VM_ShapeA5",
+			"nameB": "CC_VM_ShapeB5",
+			"theta": 0
+		},
+		{
+			"w": 20,
+			"r": 20,
+			"nameA": "CC_VM_ShapeA6",
+			"nameB": "CC_VM_ShapeB6",
+			"theta": 0
+		},
+		{
+			"w": 20,
+			"r": 22.56758334,
+			"nameA": "CC_VM_ShapeA7",
+			"nameB": "CC_VM_ShapeB7",
+			"theta": 0
+		},
+		{
+			"w": 20,
+			"r": 28.28427125,
+			"nameA": "CC_VM_ShapeA8",
+			"nameB": "CC_VM_ShapeB8",
+			"theta": 0
+		},
+		{
+			"w": 40,
+			"r": 28.28427125,
+			"nameA": "CC_VM_ShapeA9",
+			"nameB": "CC_VM_ShapeB9",
+			"theta": 0
+		},
+		{
+			"w": 40,
+			"r": 40,
+			"nameA": "CC_VM_ShapeA10",
+			"nameB": "CC_VM_ShapeB10",
+			"theta": 0
+		},
+		{
+			"w": 40,
+			"r": 45.13516668,
+			"nameA": "CC_VM_ShapeA11",
+			"nameB": "CC_VM_ShapeB11",
+			"theta": 0
+		},
+		{
+			"w": 40,
+			"r": 56.56854249,
+			"nameA": "CC_VM_ShapeA12",
+			"nameB": "CC_VM_ShapeB12",
+			"theta": 0
+		},
+		{
+			"w": 80,
+			"r": 56.56854249,
+			"nameA": "CC_VM_ShapeA13",
+			"nameB": "CC_VM_ShapeB13",
+			"theta": 0
+		},
+		{
+			"w": 80,
+			"r": 80,
+			"nameA": "CC_VM_ShapeA14",
+			"nameB": "CC_VM_ShapeB14",
+			"theta": 0
+		},
+		{
+			"w": 80,
+			"r": 90.27033337,
+			"nameA": "CC_VM_ShapeA15",
+			"nameB": "CC_VM_ShapeB15",
+			"theta": 0
+		},
+		{
+			"w": 80,
+			"r": 113.137085,
+			"nameA": "CC_VM_ShapeA16",
+			"nameB": "CC_VM_ShapeB16",
+			"theta": 0
+		}
+	]
+}
